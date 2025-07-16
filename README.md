@@ -1,3 +1,9 @@
+![Hosted on S3](https://img.shields.io/badge/Hosted%20on-AWS%20S3-orange?logo=amazon-aws&style=flat)
+![Deployed via CloudFront](https://img.shields.io/badge/CDN-AWS%20CloudFront-brightgreen?logo=amazon-aws&style=flat)
+![HTML Project](https://img.shields.io/badge/Language-HTML-blue?logo=html5&style=flat)
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-yellow?logo=amazon-aws&style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-blueviolet)
+
 # AWS Static Website Practice Project
 
 This project is a simple, secure static website hosted on Amazon S3 and served via Amazon CloudFront. It showcases my ability to deploy and secure a web project using core AWS services.
